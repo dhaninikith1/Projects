@@ -13,18 +13,22 @@ Programming Language: C++
 Translated and rotated the camera along its own axis using matrix multiplication and calculated the model-view matrix to render various images. Implemented my own projection matrix to calculate the pixel widht and length of the rendering picture.
 Used GLSL to code the vertex shader and fragment shader. Followed up the project with unit testing approach to producing consistent and error-free code.
 
-4) MultiThreading:
+4) LoboGram:
+Programming Language: NodeJS
+Built a Lobogram to detect the different images based on their texture, followed up the project with unit testing to check it's functionality
+
+5) MultiThreading:
 Programming Language: C, Python
 Designed the Jurassic park ride theme for the Universal Studios. Used multithreading concepts and implemented various threads for different functionalities of the ride and synchronized the threads together using C to keep a count of people at each ride. 
 Simulated various graphs of the arrival, rejection and waiting data of the passengers using Pandas library in Python. 
 
-5) Music_Classification:
+6) Music_Classification:
 Programming Language: Python
 Classied 10 predetermined music genre files like Jazz, Classical, County, Pop, Metal, Rock and Reggae. Used the GTZAN dataset, which is frequently used to benchmark music genre classification tasks. The dataset contains the first 30
 seconds of 100 songs per genre.The tracks are recorded at 22,050 Hz (22,050 readings per second) mono in the au format.
 Designed a learning experiment capable of predicting music genres given their audio.
 
-6) Huffman Codes:
+7) Huffman Codes:
 Programming Language: C
 Encoded and decoded a file with compression algorithm using huffman codes. 
 
